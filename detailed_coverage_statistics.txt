@@ -1,0 +1,3 @@
+SYMBOL	sample	region_type	Total_Positions	Total_Coverage	Mean_Coverage	Median_Coverage	Min_Coverage	Max_Coverage	Positions_Under_20x	Percentage_Under_20x	Positions_With_Zero_Coverage	Percentage_Zero_Coverage
+FRG1FP	sample_HG002_chr22.bam	exact	749	51019	68.116	70	39	103	0	0	0	0
+FRG1FP	sample_HG002_chr22.bam	extended	180	12329	68.494	68.5	40	116	0	0	0	0
